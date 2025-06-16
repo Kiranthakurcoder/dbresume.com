@@ -1,0 +1,7 @@
+{
+    "wathc":["."],
+    "ext": "js,ejs,json",
+    "ignore":["node_modules","data"],
+    "excut": "node apps.js"
+
+}
